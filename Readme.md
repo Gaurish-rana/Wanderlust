@@ -1,3 +1,5 @@
+![UI](https://github.com/user-attachments/assets/e69c7641-f2e1-45e7-8c3a-e6e659b1ffa1)
+
 🌍 Wanderlust - Travel Booking UI  
 
 Welcome to the **Wanderlust** travel booking app! 🚀  
@@ -9,8 +11,6 @@ This project showcases a sleek and modern UI design for an easy, fast, and engag
 - **Top Services**: Best flights, local events, and calculated weather updates.  
 - **User Testimonials**: Hear what travelers say about their experiences.  
 
-📸 Screenshots  
-![Wanderlust UI](UI.png)
 
 🛠️ Technologies Used  
 - **Figma** - UI/UX design  
