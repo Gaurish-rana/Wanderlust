@@ -1,4 +1,5 @@
-![UI](https://github.com/user-attachments/assets/e69c7641-f2e1-45e7-8c3a-e6e659b1ffa1)
+![Figma](https://github.com/user-attachments/assets/ac2edb6a-a632-436b-8da6-f4e0f5750c9e)
+
 
 🌍 Wanderlust - Travel Booking UI  
 
